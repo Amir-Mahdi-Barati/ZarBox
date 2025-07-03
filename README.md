@@ -1,7 +1,5 @@
 # 🚀 ZarBox - The Ultimate Sales & Customer Management Powerhouse
 
-![ZarBox Logo (Placeholder)]()
-
 **ZarBox** is the open-source, Python-powered beast for dominating customer management, product tracking, invoicing, and order processing. Crafted by **Amir Mehdi Barati**, it’s sleek, intuitive, and built to skyrocket your business with a Persian-friendly interface that screams efficiency! 🔥
 
 ## 🌟 Why ZarBox Rules
