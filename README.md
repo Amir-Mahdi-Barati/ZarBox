@@ -24,5 +24,5 @@
 ### Installation
 1. Clone the repo like a pro:
    ```bash
-   git clone https://github.com/Amir-Mahdi-Barati/zarbox.git
+   git clone https://github.com/Amir-Mahdi-Barati/ZarBox.git
    cd zarbox
